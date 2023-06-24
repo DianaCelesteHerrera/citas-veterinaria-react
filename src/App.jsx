@@ -1,13 +1,12 @@
 import React from 'react'
 import Header from './components/Header'
+import Formulario from './components/Formulario'
 
 function App() {
   return (
     <div>
-      <h2>
-        Veterinaria Corralito
         <Header/>
-      </h2>
+        <Formulario/>
     </div>
   )
 }

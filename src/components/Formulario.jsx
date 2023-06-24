@@ -1,5 +1,4 @@
-
-function Formulario() {
+const Formulario = () =>{
   return (
     <div>
       <h2>Fomrs</h2>
